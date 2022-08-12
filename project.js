@@ -14,9 +14,9 @@ navIcon.addEventListener("click",toggleMenu);
 
 var btn=document.getElementById("nightmode");
 var icons=document.getElementsByClassName("baby");
-var ab=document.getElementById("about");
+var ab=document.getElementById("About");
 // var education=document.getElementById("API");
-var contact=document.getElementById("contact");
+var contact=document.getElementById("Contact");
 var count=0;
 function toggleMode(){
     if(count%2==0){
